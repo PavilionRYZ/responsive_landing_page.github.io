@@ -5,6 +5,9 @@
     font-family:'Pacifico';
     box-sizing: border-box;
 }
+::-webkit-scrollbar{
+  display: none;
+}
 h1{
     text-shadow: 5px  5px 8px rgba(186, 39, 186, 0.903);
     text-align: center; 
